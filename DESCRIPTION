@@ -1,6 +1,6 @@
 Package: GitAI
 Title: Extracts Knowledge from 'Git' Repositories
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person("Kamil", "Wais", , "kamil.wais@gmail.com", role = c("aut", "cre")),
     person("Krystian", "Igras", , "krystian8207@gmail.com", role = "aut"),
@@ -18,10 +18,10 @@ Suggests: testthat (>= 3.0.0), shiny, shinychat, withr, knitr,
 Config/testthat/edition: 3
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2025-02-20 07:39:16 UTC; banasm
+Packaged: 2025-05-20 14:57:02 UTC; kamil
 Author: Kamil Wais [aut, cre],
   Krystian Igras [aut],
   Maciej Banas [aut]
 Maintainer: Kamil Wais <kamil.wais@gmail.com>
 Repository: CRAN
-Date/Publication: 2025-02-20 18:40:16 UTC
+Date/Publication: 2025-05-20 15:10:05 UTC
